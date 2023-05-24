@@ -4,7 +4,7 @@
 #### Improving automated understanding of complex question answer content
 ---
 
-### **Problem Statement**
+### **Description**
 
 Computers are really good at answering questions with single, verifiable answers. But humans are often still better at answering questions about opinions, recommendations, or personal experiences.
 
